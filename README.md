@@ -14,4 +14,4 @@ is easy to change.
 
 ## UML Class Diagram
 
-![]("ClassDiagram.png")
+<img height="350" src="ClassDiagram.png" width="400"/>
