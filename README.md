@@ -14,4 +14,4 @@ is easy to change.
 
 ## UML Class Diagram
 
-<img height="500" src="ClassDiagram.png" width="550"/>
+<img height="500" src="ClassDiagram.png" width="650"/>
