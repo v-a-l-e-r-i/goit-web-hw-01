@@ -14,4 +14,4 @@ is easy to change.
 
 ## UML Class Diagram
 
-<img scr="./ClassDiagram.png">
+![]("/ClassDiagram.png")
